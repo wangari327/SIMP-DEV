@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Bharat Torrent Bot <h1>
+<h1> Bharat Torrent Pro Bot <h1>
 </div>
 
 > So basically Tortoolkit is aimed to be the most versatile torrent leecher and youtube-dl bot for telegram. 
