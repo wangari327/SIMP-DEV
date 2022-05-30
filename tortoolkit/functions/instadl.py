@@ -163,21 +163,7 @@ async def _insta_post_downloader(message):
     )
     if get_val("INSTA_UNAME") is not None and get_val("INSTA_PASS") is not None:
         login = True
-    else:
-        login = False
-        
-        if login:
-        try:
-            insta.login(get_val("INSTA_UNAME"), get_val("INSTA_PASS"))
-            torlog.info("InstaDL running in Logged Mode")
-        except (
-            BadCredentialsException,
-            TwoFactorAuthRequiredException,
-            ConnectionException,
-            TooManyRequestsException,
-        ) as e:
-            await message.edit(f"**InstaDL ERROR:** " + str(e))
-            torlog.warning(str(e))
+   
     else:
         torlog.info("Insta-DL running without credentials")
         await message.edit(
