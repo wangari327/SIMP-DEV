@@ -1,9 +1,9 @@
 <div align="center">
 <h1> Bharat Torrent Pro Bot <h1> <div align="center"> ✗³𝙲𝚘𝚍𝚒𝚗𝚐 </div> </div>
 	
-![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/hey-adithya/Bharat-Torrent-Pro-Bot?style=social)
 
-<img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
+<img src="https://img.shields.io/github/forks/hey-adithya/Bharat-Torrent-Pro-Bot?style=social"></img>
 
 
 
