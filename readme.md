@@ -6,8 +6,7 @@
 > The bot gets started with minimum variables and others can be set as and when needed using the /settings.
 
 <br/> <div align="center">
-[![Fork](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/fork) • [![Telegram Group](https://telegra.ph/file/6ebc3fca0426110f74aa8.png)](https://t.me/BharatTorrentPro)
-![GitHub Repo stars](https://img.shields.io/github/stars/hey-adithya/Bharat-Torrent-Pro-Bot?style=social <img src="https://img.shields.io/github/forks/hey-adithya/Bharat-Torrent-Pro-Bot?style=social"></img>
+![GitHub Repo stars](https://img.shields.io/github/stars/hey-adithya/Bharat-Torrent-Pro-Bot?style=social) <img src="https://img.shields.io/github/forks/hey-adithya/Bharat-Torrent-Pro-Bot?style=social"></img>
 
 </div>
 
