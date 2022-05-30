@@ -1,7 +1,11 @@
 <div align="center">
 <h1> Bharat Torrent Pro Bot <h1> <div align="center"> ✗³𝙲𝚘𝚍𝚒𝚗𝚐 </div> </div>
 	
-![GitHub Repo stars]("https://img.shields.io/github/stars/https://github.com/hey-adithya/Bharat-Torrent-Pro-Bot?style=social")<img src="https://img.shields.io/github/https://github.com/hey-adithya/Bharat-Torrent-Pro-Bot/forks?style=social"></img>
+![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
+
+<img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
+
+
 
 > So basically Tortoolkit is aimed to be the most versatile torrent leecher and youtube-dl bot for telegram. 
 > This bot is highly customizable and to customize this bot you don't need to restart the bot every time. 
